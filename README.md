@@ -7,6 +7,6 @@ The notebooks are slightly modified from the repos of DeepMind and Tensorlow. Th
 
 Alternatively, to run the code locally, the neccessay packages can be installed by
 
-    pip install jax haiku matplotlib optax pandas seaborn scikit-learn gsutil  tensorflow tensorflow_probability glob imageio 
+    pip install jax haiku matplotlib optax pandas seaborn scikit-learn gsutil tensorflow tensorflow_probability glob imageio 
 
 A virtual environment is recommended.
